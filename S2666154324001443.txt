@@ -1,0 +1,11 @@
+Sepehr Rezaei Melal, Mahdi Aminian, Seyed Mohammadhossein Shekarian,
+A machine learning method based on stacking heterogeneous ensemble learning for prediction of indoor humidity of greenhouse,
+Journal of Agriculture and Food Research,
+Volume 16,
+2024,
+101107,
+ISSN 2666-1543,
+https://doi.org/10.1016/j.jafr.2024.101107.
+(https://www.sciencedirect.com/science/article/pii/S2666154324001443)
+Abstract: Efficient production management, high productivity, and improved product quality are essential for the success of greenhouse production in producing sustainable agricultural products. Several environmental factors, including air temperature, humidity, CO2 levels, and light levels, have a major influence on this. Managing internal humidity is critical to preventing climate variation, disease, and pests in glasshouses that can cause significant damage if not properly controlled. This article assesses the performance of machine learning models in predicting indoor humidity levels in a greenhouse using a dataset from Guilan University's greenhouse located in Rasht City, Iran. Seven regression models were used to make predictions: multiple linear regression (MR), polynomial regression (PR), decision tree regression (DT), k-nearest neighbors regression (KNN), support vector regression (SVR), random forest regression (RF), and extreme gradient boosting regression (XGBoost). Evaluation criteria including coefficient of determination (R2), mean absolute error (MAE), mean square error (MSE), and root mean square error (RMSE) were used to evaluate each model. The best machine learning models were selected based on these criteria values (R2 > 0.94) and combined using the stacking method, a popular ensemble learning technique, to create a metamodel for accurately predicting internal humidity within the greenhouse. The metamodel showed exceptional performance, with significantly improved evaluation criteria on the test dataset, specifically R2 of 0.96515, MAE of 0.01395, MSE of 0.03205, and RMSE of 0.00102.
+Keywords: Greenhouse; Predicting indoor humidity; Machine learning models; Ensemble learning technique; Stacking method
